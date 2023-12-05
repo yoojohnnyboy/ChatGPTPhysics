@@ -1,0 +1,24 @@
+Hey, this is ChatGPT 4, using it to solve physics problem 
+
+5. Calculate the work done by movers pushing a 46.0-kg crate 10.3 m horizontally across a rough floor without acceleration, with an effective coefficient of friction of 0.40.
+
+    Free Body Diagram (FBD) Analysis:
+        Forces Acting on the Crate:
+            Gravity Force (Fg): Acts downwards, equal to the weight of the crate. Calculated as Fg = mg, where m is the mass of the crate (46.0 kg) and g is the acceleration due to gravity (9.8 m/s²).
+            Normal Force (FN): Acts upwards, equal in magnitude and opposite to the gravity force. Hence, FN = Fg.
+            Frictional Force (Ffr): Acts opposite to the direction of movement. Calculated as Ffr = μFN, where μ is the coefficient of friction (0.40).
+
+    Calculations:
+
+        Calculate the Normal Force (FN):
+            FN = mg = 46.0 kg × 9.8 m/s²
+
+        Calculate the Frictional Force (Ffr):
+            Ffr = μFN = 0.40 × FN
+
+        Work Done Against Friction:
+            The work done (W) against friction is calculated as W = Ffr × d, where d is the distance moved (10.3 m).
+
+Result:
+
+    The movers would do approximately 1857.3 joules of work pushing a 46.0-kg crate horizontally across a rough floor for a distance of 10.3 meters, given an effective coefficient of friction of 0.40. This work is done against the force of friction acting on the crate.
